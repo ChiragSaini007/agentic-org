@@ -1,3 +1,5 @@
+> Forked from [mishrasanjeev/agentic-org](https://github.com/mishrasanjeev/agentic-org) — I read through this as a reference for enterprise multi-agent orchestration patterns (the NEXUS orchestrator, LangGraph-based human-in-the-loop approval gates, and how it structures 50+ role-based agents across finance, HR, marketing, and ops with real API connectors). I haven't modified the codebase myself; it's here as a working example I studied rather than my own build.
+
 # AgenticOrg
 
 **AI Virtual Employee Platform** — LangGraph agents, 1000+ integrations (via Composio), native connectors and tools. Agents call real APIs (Jira, HubSpot, GitHub, GSTN, Tally, Banking AA) — not just generate text. Voice agents, RAG knowledge base, smart LLM routing, industry packs, PII redaction, browser RPA, CFO/CMO dashboards, ABM dashboard, NL Query (Cmd+K), multi-company support, scheduled reports, A/B testing, email drip engine, web push HITL, Python/TypeScript SDKs, MCP server, human-in-the-loop governance, no-code builder.
